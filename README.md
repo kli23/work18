@@ -1,1 +1,2 @@
 # work18
+Program that uses unnamed pipes to facilitate parent/child process communication. Constantly prompts an input, then returns a capitalized version of it for output. Works with enter, but not ctrl + d.
